@@ -25,15 +25,15 @@ Feel free to contact me or follow my social media:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacampana121@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&theme=radical&show_icons=true&hide_title=true&hide_border=true&height=200" width="300" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&theme=radical&show_icons=true&hide_title=true&hide_border=true&height=200" width="300" height="200" style="margin-right: 20px;" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&theme=radical&hide_progress=true&layout=donut&hide_border=true" width="200" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&theme=radical&hide_progress=true&layout=donut&hide_border=true" width="200" height="200" style="margin-right: 20px;" />
   
   <!-- GIF -->
   <img src="https://i.imgur.com/VqUlbzd.gif" width="200" height="200" />
-</div>
+</div>  
