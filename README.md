@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello!, I'm Maria Rita, welcome to my GitHub 👋
 
-<!--
-**MariaCampanaP/MariaCampanaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year Computer Science student at Universidade Estadual do Paraná (UNESPAR). I am deeply fascinated by cibersecurity, design, robotics, biotechnology, and astrophysics. My passion for technology lies in my desire to help people.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Current Education**: 1st year Computer Science student at UNESPAR.
+- **Passionate About**: Technology, cibersecurity, design, robotics, biotechnology, and astrophysics.
+- **Currently Learning**: Improving my skills in C and doing basic research on other technologies, such as HTML, PHP, Java, and Python.
+
+## 🔧 Tools & Technologies
+
+- **Languages:** C.
+- **Markup Language:** HTML.
+- **Server-Side Scripting Language:** PHP.
+- **Development Tools:** Code::Blocks, XAMPP.
+
+## My Experience So Far:
+- I’m currently working on small projects in C, related to the algorithms course in my college program, and small projects in HTML and PHP due to a cybersecurity course.
+
+## 📫 How to Reach Me
+
+Feel free to contact me or follow my social media:
+
+<a href="mailto:mariacampana121@gmail.com" style="text-decoration: none; padding: 10px 20px; background-color: #d44638; color: white; border-radius: 5px; font-weight: bold;">Gmail</a>
+<a href="https://www.instagram.com/mar.iacampana/" style="text-decoration: none; padding: 10px 20px; background-color: #E4405F; color: white; border-radius: 5px; font-weight: bold; margin-left: 10px;">Instagram</a>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
