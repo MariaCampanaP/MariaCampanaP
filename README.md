@@ -27,6 +27,13 @@ Feel free to contact me or follow my social media:
 
 ## 📊 GitHub Stats
 
-![Maria Rita Stats](https://github-readme-stats.vercel.app/api?username=MariaCampanaP&theme=radical&show_icons=true&hide_title=true&hide_border=true&height=200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&theme=radical&layout=donut&hide_border=true&height=200)
-![GIF](https://i.imgur.com/VqUlbzd.gif) 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&theme=radical&show_icons=true&hide_title=true&hide_border=true&height=200" width="300" height="200" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&theme=radical&hide_progress=true&layout=donut&hide_border=true" width="200" height="200" />
+  
+  <!-- GIF -->
+  <img src="https://i.imgur.com/VqUlbzd.gif" width="200" height="200" />
+</div>
