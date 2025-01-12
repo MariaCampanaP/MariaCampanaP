@@ -22,10 +22,11 @@ I am a first-year Computer Science student at Universidade Estadual do Paraná (
 
 Feel free to contact me or follow my social media:
 
-[![Gmail Button](https://rockcontent.com/br/wp-content/uploads/sites/2/2019/07/gmail-1024x538.png)](mailto:mariacampana121@gmail.com)
-[![Instagram Button](https://example.com/instagram-button.png)](https://www.instagram.com/mar.iacampana/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacampana121@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
+![Maria Rita Stats](https://github-readme-stats.vercel.app/api?username=MariaCampanaP&theme=radical&show_icons=true&hide_title=true&hide_border=true&height=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&theme=radical&layout=donut&hide_border=true&height=200)
+![GIF](https://i.imgur.com/VqUlbzd.gif) 
