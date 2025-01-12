@@ -22,8 +22,8 @@ I am a first-year Computer Science student at Universidade Estadual do Paraná (
 
 Feel free to contact me or follow my social media:
 
-<a href="mailto:mariacampana121@gmail.com" style="text-decoration: none; padding: 10px 20px; background-color: #d44638; color: white; border-radius: 5px; font-weight: bold;">Gmail</a>
-<a href="https://www.instagram.com/mar.iacampana/" style="text-decoration: none; padding: 10px 20px; background-color: #E4405F; color: white; border-radius: 5px; font-weight: bold; margin-left: 10px;">Instagram</a>
+<a href="mailto:mariacampana121@gmail.com" target="_blank" style="display: inline-block; text-decoration: none; padding: 10px 20px; background-color: #d44638; color: white; border-radius: 5px; font-weight: bold;">Gmail</a>
+<a href="https://www.instagram.com/mar.iacampana/" target="_blank" style="display: inline-block; text-decoration: none; padding: 10px 20px; background-color: #E4405F; color: white; border-radius: 5px; font-weight: bold; margin-left: 10px;">Instagram</a>
 
 ## 📊 GitHub Stats
 
