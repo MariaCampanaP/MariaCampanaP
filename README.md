@@ -1,4 +1,4 @@
-## Hello!, I'm Maria Rita, welcome to my GitHub 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=Hello%2C+I'm+Maria+Rita!;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 I am a first-year Computer Science student at Universidade Estadual do Paraná (UNESPAR). I am deeply fascinated by cibersecurity, design, robotics, biotechnology, and astrophysics. My passion for technology lies in my desire to help people.
 
