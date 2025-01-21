@@ -1,18 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=Hello%2C+I'm+Maria+Rita!;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Welcome+to+my+profile%3E)](https://git.io/typing-svg)
 
-I am a first-year Computer Science student at Universidade Estadual do Paraná (UNESPAR). I am deeply fascinated by cibersecurity, design, robotics, biotechnology, and astrophysics. My passion for technology lies in my desire to help people.
-
-## 🚀 About Me
+##  About Me
 
 - **Current Education**: 1st year Computer Science student at UNESPAR.
 - **Passionate About**: Technology, cibersecurity, design, robotics, biotechnology, and astrophysics.
-- **Currently Learning**: Improving my skills in C and doing basic research on other technologies, such as HTML, PHP, Java, and Python.
+- **Currently Learning**: Improving my skills in C and doing basic research on other technologies, such as HTML, Java, and Python.
 
 ## 🔧 Tools & Technologies
 
 - **Languages:** C.
 - **Markup Language:** HTML.
-- **Server-Side Scripting Language:** PHP.
 - **Development Tools:** Code::Blocks, XAMPP.
 
 ## My Experience So Far:
@@ -27,13 +24,4 @@ Feel free to contact me or follow my social media:
 
 # 📊 GitHub Stats
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&theme=radical&show_icons=true&hide_title=true&hide_border=true&height=200" width="300" height="200" style="margin-right: 20px;" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&theme=radical&hide_progress=true&layout=donut&hide_border=true" width="200" height="200" style="margin-right: 20px;" />
-  
-  <!-- GIF -->
-  <img src="https://i.imgur.com/VqUlbzd.gif" width="200" height="200" />
-</div>  
+
