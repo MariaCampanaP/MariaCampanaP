@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Welcome+to+my+profile%3E)](https://git.io/typing-svg)
 
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="160">
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="340">
 
 
 ##  About Me
