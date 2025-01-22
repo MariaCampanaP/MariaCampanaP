@@ -1,13 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Welcome+to+my+profile%3E)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Welcome+to+my+profile%3E)](https://git.io/typing-svg)" alt="Typing SVG">
+  </a>
+</div>
+
 
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="340">
 
+<h1 align="center">About Me </h1>
+<div align="center">
+  <p>👋 Olá, sou uma entusiasta de Ciência da Computação apaixonada por cibersegurança, design e robótica!</p>
+  <p>🌱 Atualmente, estou aprendendo front-end e explorando tecnologias em 8-bit.</p>
+  <p>💻 Amo criar projetos criativos e práticos relacionados a segurança e privacidade.</p>
+</div>
 
-##  About Me
-
-- **Current Education**: 1st year Computer Science student at UNESPAR.
-- **Passionate About**: Technology, cibersecurity, design, robotics, biotechnology, and astrophysics.
-- **Currently Learning**: Improving my skills in C and doing basic research on other technologies, such as HTML, Java, and Python.
 
 ## 🔧 Tools & Technologies
 
