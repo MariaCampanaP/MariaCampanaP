@@ -33,15 +33,7 @@ I'm a Computer Science student at the State University of Paraná (UNESPAR). Cur
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=%3C%E2%98%95%EF%B8%8E+GitHub+Stats!%3E" alt="Typing SVG" />
 </a>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://github.com/MariaCampanaP/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" height="150" />
-  </a>
-  
-  <a href="https://github.com/MariaCampanaP/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&layout=compact&theme=radical&langs_count=8&card_width=320&hide_border=true&cache_seconds=1800" alt="Most Used Languages" height="150" />
-  </a>
-</div>
+
 
 
 #
