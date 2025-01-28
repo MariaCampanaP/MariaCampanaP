@@ -35,13 +35,14 @@ I'm a Computer Science student at the State University of Paraná (UNESPAR). Cur
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://github.com/MariaCampanaP/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" height="150" />
   </a>
   
   <a href="https://github.com/MariaCampanaP/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&layout=compact&theme=radical&langs_count=8&card_width=320&hide_border=true" alt="Most Used Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&layout=compact&theme=radical&langs_count=8&card_width=320&hide_border=true&cache_seconds=1800" alt="Most Used Languages" height="150" />
   </a>
 </div>
+
 
 #
 
