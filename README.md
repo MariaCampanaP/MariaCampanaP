@@ -18,6 +18,7 @@ I'm a Computer Science student at the State University of Paraná (UNESPAR). Cur
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacampana121@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rita-campana-9b6910349/)
 
 
 <h3 align="left">☕︎︎ My Tools!</h3>
