@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E1&width=435&lines=%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E%EF%B8%8E+Welcome+to+my+profile%3E" alt="Typing SVG" />
 </a>
 
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="340">
+<img src="https://camo.githubusercontent.com/bf81e4ff29b0f28ba4749945c68a95e78ee5fe0d573cb6448a0b49c7823d797f/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d373930623736313136373262376361366130363164386561306462653436353666343730303563383632343462663064267269643d67697068792e6769662663743d67" width="100%" height="340">
 <div align="center">
 
 # ☕︎︎ About Me
