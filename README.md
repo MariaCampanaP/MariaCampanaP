@@ -4,6 +4,14 @@
 <img src="https://camo.githubusercontent.com/bf81e4ff29b0f28ba4749945c68a95e78ee5fe0d573cb6448a0b49c7823d797f/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d373930623736313136373262376361366130363164386561306462653436353666343730303563383632343462663064267269643d67697068792e6769662663743d67" width="100%" height="340">
 <div align="center">
 
+> ☕︎︎ _"Dans la vie, rien n'est à craindre, tout est à comprendre.  
+> Il est temps de comprendre davantage, afin de moins craindre."_  
+> — **Marie Curie**
+
+</div>
+
+<div align="center">
+
 # ☕︎︎ About Me
 
 I'm a Computer Science student at the State University of Paraná (UNESPAR). Currently enhancing my skills in C due to the course, while also studying cybersecurity and exploring front-end development. I have a passion for robotics, biotechnology, cybersecurity, front-end, and databases.
