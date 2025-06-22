@@ -14,7 +14,7 @@
 
 # ☕︎︎ About Me
 
-I'm a Computer Science student at the State University of Paraná (UNESPAR). Currently enhancing my skills in C due to the course, while also studying cybersecurity and exploring front-end development. I have a passion for robotics, biotechnology, cybersecurity, front-end, and databases.
+I am currently a second-year Computer Science student at the State University of Paraná (UNESPAR). I am improving my skills in C and Java through my coursework and exploring both front-end and back-end development. I am passionate about robotics, biotechnology, and front-end design.
 </div>
 
 <div align="left">
