@@ -24,10 +24,9 @@ I am currently a second-year Computer Science student at the State University of
 
 <h3 align="left">☕︎︎ Connect with me!</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mar.iacampanapeixoto@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rita-campana-9b6910349/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-7C00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mar.iacampanapeixoto@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-7C00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rita-campana-9b6910349/)
 
 <h3 align="left">☕︎︎ My Tools!</h3>
 
