@@ -40,21 +40,20 @@ I am currently a second-year Computer Science student at the State University of
 </a>
 
 <div align="center">
-  <a href="https://github.com/MariaCampanaP/github-readme-stats">
-    <img
-      width="49%"
-      height="180px"
-      src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&cache_seconds=1800"
-      alt="GitHub stats"
-    />
-  </a>
+  <img 
+    width="49%" 
+    height="180px" 
+    src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&cache_seconds=180" 
+    alt="Maria GitHub Stats"
+  />
+  <img 
+    width="41%"
+    height="190px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&layout=compact&theme=radical&hide_border=true&bg_color=00000000&cache_seconds=180"
+    alt="Most Used Languages"
+  />
+</div>
 
-  <a href="https://github.com/MariaCampanaP/github-readme-stats">
-    <img
-      width="49%"
-      height="180px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8&card_width=320&cache_seconds=1800"
-      alt="Most Used Languages"
-    />
+
   </a>
 </div>
