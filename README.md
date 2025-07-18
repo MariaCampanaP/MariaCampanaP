@@ -3,8 +3,7 @@
 
 <div align="center">
 
-> ☕︎︎ _"Dans la vie, rien n'est à craindre, tout est à comprendre.  
-> Il est temps de comprendre davantage, afin de moins craindre."_  
+> ☕︎︎ _"Nothing in life should be feared, only understood."_  
 > — **Marie Curie**
 
 </div>
