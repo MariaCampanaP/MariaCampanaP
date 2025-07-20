@@ -53,8 +53,12 @@ I am currently a second-year Computer Science student at the State University of
     alt="Most Used Languages"
   />
 </div>
-
-
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaCampanaP/MariaCampanaP/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaCampanaP/MariaCampanaP/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MariaCampanaP/MariaCampanaP/output/pacman-contribution-graph.svg">
+</picture>
 
   </a>
 </div>
