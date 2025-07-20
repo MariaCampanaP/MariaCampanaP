@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Yezidi&pause=1000&color=70ECD0&width=435&lines=%3C%E2%98%95%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E+Welcome+to+my+profile%3E" alt="Typing SVG" /></a>
-<img src="https://s5.ezgif.com/tmp/ezgif-5e4b91a3aa261c.gif" width="100%">
-
+<p align="center">
+  <img src="https://s5.ezgif.com/tmp/ezgif-5e4b91a3aa261c.gif" width="800px" />
+</p>
 <div align="center">
 
 > ☕︎︎ _"Nothing in life should be feared, only understood."_  
