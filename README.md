@@ -13,7 +13,10 @@
 
 # ☕︎︎ About Me
 
-I am currently a second-year Computer Science student at the State University of Paraná (UNESPAR). I am improving my C and Java skills through college classes and complementary courses. In addition, I am exploring front-end and back-end development, integrating this knowledge with the security area. I am passionate about robotics and the world of full stack development.
+Currently studying Computer Science at the State University of Paraná (UNESPAR), focusing on Full Stack Development, Cybersecurity, and Artificial Intelligence.
+Building a solid foundation through specialized courses, hands-on projects, and active involvement in technology communities.
+Motivated to apply knowledge to real-world scenarios and embrace challenges that promote professional growth.
+
 </div>
 
 <div align="left">
