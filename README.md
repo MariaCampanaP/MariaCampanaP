@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Yezidi&pause=1000&color=70ECD0&width=435&lines=%3C%E2%98%95%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E+Welcome+to+my+profile%3E" alt="Typing SVG" /></a>
 <p align="center">
-  <img src="https://s5.ezgif.com/tmp/ezgif-5e4b91a3aa261c.gif" width="800px" />
+  <img width="3840" height="2160" alt="DlcT2jNs_o" src="https://github.com/user-attachments/assets/02a4fc53-593b-41ed-a4bb-782254b66f07" />
 </p>
 <div align="center">
 
