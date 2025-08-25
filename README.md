@@ -28,7 +28,7 @@ Motivated to apply knowledge to real-world scenarios and embrace challenges that
 
 [![Gmail](https://img.shields.io/badge/Gmail-4cbc9c?style=flat&logo=gmail&logoColor=white)](mailto:mar.iacampanapeixoto@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-4cbc9c?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4cbc9c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rita-campana-9b6910349/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4cbc9c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rita-campana)
 
 
 
