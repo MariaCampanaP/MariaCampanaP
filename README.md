@@ -36,7 +36,15 @@ Motivated to apply knowledge to real-world scenarios and embrace challenges that
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="25" alt="C logo"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" alt="Java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt="Java logo"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="Python logo"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="HTML5 logo"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" alt="CSS3 logo"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" alt="JavaScript logo"/>
   <img width="8"/>
   
 #
