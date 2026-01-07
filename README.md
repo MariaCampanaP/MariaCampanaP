@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Yezidi&pause=1000&color=70ECD0&width=435&lines=%3C%E2%98%95%EF%B8%8E+Hello%2C+I'm+Maria+Rita!%3E;%3C%E2%98%95%EF%B8%8E+Welcome+to+my+profile%3E" alt="Typing SVG" /></a>
 <p align="center">
-  <img width="3840" height="2160" alt="DlcT2jNs_o" src="https://github.com/user-attachments/assets/02a4fc53-593b-41ed-a4bb-782254b66f07" />
-</p>
-<div align="center">
+  <img width="3840" height="2160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF5MHQ3ejRzZ2c3aXZhY292djN4NTdxOGUzZWtoOWk0bjZydWdiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"
+
 
 > ☕︎︎ _"Nothing in life should be feared, only understood."_  
 > — **Marie Curie**
