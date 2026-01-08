@@ -33,11 +33,11 @@ Motivated to apply knowledge to real-world scenarios and embrace challenges that
 
 <h3 align="left">☕︎︎ My Tools!</h3>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="25" alt="C logo"/>
+  <img src="https://i.redd.it/nmuax05zxoab1.gif" height="80" alt="C logo"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt="Java logo"/>
+  <img src="https://icons8.com.br/icon/GPfHz0SM85FX/logo-java-coffee-cup" height="80" alt="Java logo"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="Python logo"/>
+  <img src="https://img.icons8.com/color/96/python.gif" height="25" alt="Python logo"/>
   <img width="8"/>
   
 #
