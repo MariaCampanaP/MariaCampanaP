@@ -20,7 +20,7 @@ Motivated to apply knowledge to real-world scenarios and embrace challenges that
 
 <div align="left">
 
-<img align="right" alt="" height="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmswcHcwMjVvc2dxbWNwczJmd3AxM2ZxeTRmajRqbmhmczJob3l2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgCM9TWQ5lL8zpc4G2/giphy.gif">
+<img align="right" alt="" height="190px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhuY2g1YmNqMnZuNnVtdzA4YTJtNjdvZ2xqM2lzZ3llbXRubzVnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 
 <h3 align="left">☕︎︎ Connect with me!</h3>
@@ -32,12 +32,11 @@ Motivated to apply knowledge to real-world scenarios and embrace challenges that
 
 
 <h3 align="left">☕︎︎ My Tools!</h3>
-
-  <img src="https://i.redd.it/nmuax05zxoab1.gif" height="80" alt="C logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="35" alt="C logo" />
   <img width="8"/>
-  <img src="https://icons8.com.br/icon/GPfHz0SM85FX/logo-java-coffee-cup" height="80" alt="Java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="42" alt="Java logo"/>
   <img width="8"/>
-  <img src="https://img.icons8.com/color/96/python.gif" height="25" alt="Python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="42" alt="Python logo"/>
   <img width="8"/>
   
 #
