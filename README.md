@@ -2,7 +2,6 @@
 <p align="center">
   <img width="3840" height="2160" src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" />
 
-
 > ☕︎︎ _"Nothing in life should be feared, only understood."_  
 > — **Marie Curie**
 
