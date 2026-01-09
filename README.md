@@ -11,9 +11,7 @@
 
 # ☕︎︎ About Me
 
-Currently studying Computer Science at the State University of Paraná (UNESPAR), focusing on Full Stack Development, Cybersecurity, and Artificial Intelligence.
-Building a solid foundation through specialized courses, hands-on projects, and active involvement in technology communities.
-Motivated to apply knowledge to real-world scenarios and embrace challenges that promote professional growth.
+Currently studying Computer Science at the State University of Paraná (UNESPAR), focusing on the area of Data. Building a solid foundation through courses, practical projects, and continuous learning. Also developing basic knowledge in HTML and CSS. Motivated to apply knowledge in real-world situations and to face challenges that contribute to professional growth.
 
 </div>
 
