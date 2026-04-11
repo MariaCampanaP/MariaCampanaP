@@ -35,24 +35,44 @@ Currently studying Computer Science at the State University of Paraná (UNESPAR)
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="42" alt="Python logo"/>
   <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="42" alt="Arduino logo"/>
+  <img width="8"/>
+          
+          
   
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Yezidi&pause=1000&color=70ECD0&width=435&lines=%3C%E2%98%95%EF%B8%8E+GitHub+Stats!+%3E" alt="Typing SVG" />
 </a>
 
+<table>
+<tr>
+  <td>
 <div align="center">
   <img 
-    width="49%" 
+    width="%" 
     height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=MariaCampanaP&show_icons=true&hide_border=true&bg_color=00000000&title_color=4cbc9c&icon_color=4cbc9c&text_color=ffffff"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaCampanaP&theme=2077"
     alt="Maria GitHub Stats"
   />
+   </td>
+  <td>
   <img 
-    width="41%"
+    width="%"
     height="190px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCampanaP&layout=compact&hide_border=true&bg_color=00000000&title_color=4cbc9c&text_color=ffffff"
-    alt="Most Used Languages"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaCampanaP&theme=2077"
+    alt="Most Used Languages For Commit"
   />
+    </td>
+  <td>
+  <img 
+    width="%"
+    height="190px"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaCampanaP&theme=2077"
+    alt="Most Used Languages For Repos"
+  </td>
+</tr>
+</table>
+</section>
 </div>
 <br>
 <picture>
@@ -62,4 +82,4 @@ Currently studying Computer Science at the State University of Paraná (UNESPAR)
 </picture>
 
   </a>
-</div>
+</div> 
