@@ -37,7 +37,8 @@ Currently studying Computer Science at the State University of Paraná (UNESPAR)
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="42" alt="Arduino logo"/>
   <img width="8"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL logo"/>
+  <img width="8"/>
           
   
 #
