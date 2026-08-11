@@ -26,20 +26,33 @@ Currently studying Computer Science at the State University of Paraná (UNESPAR)
 [![Instagram](https://img.shields.io/badge/Instagram-4cbc9c?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4cbc9c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rita-campana)
 
+## ☕︎︎ Tech Stack
 
+**☕︎︎ Languages**
 
-<h3 align="left">☕︎︎ My Tools!</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="35" alt="C logo" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="42" alt="Java logo"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="42" alt="Python logo"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="42" alt="Arduino logo"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL logo"/>
-  <img width="8"/>
-          
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**☕︎︎ Markup and Style Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**☕︎︎ Operating System**
+
+![Windows](https://img.shields.io/badge/Windows-000?style=flat-square&logo=windows&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**☕︎︎ Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**☕︎︎ Currently Studying**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Yezidi&pause=1000&color=70ECD0&width=435&lines=%3C%E2%98%95%EF%B8%8E+GitHub+Stats!+%3E" alt="Typing SVG" />
