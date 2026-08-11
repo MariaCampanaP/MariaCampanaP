@@ -15,10 +15,63 @@ Currently studying Computer Science at the State University of Paraná (UNESPAR)
 
 </div>
 
+<br>
+
 <div align="left">
 
-<img align="right" alt="" height="190px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNhenI2OHh4MWVwbXdyaG5mbW5kNmttYXRvZ2JwMTE0MXRsanMxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69jvP3VXUYhr3YUYu9/giphy.gif">
+<h2>☕︎ Tech Stack</h2>
 
+<img align="right" alt="Coding GIF" height="250px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNhenI2OHh4MWVwbXdyaG5mbW5kNmttYXRvZ2JwMTE0MXRsanMxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69jvP3VXUYhr3YUYu9/giphy.gif">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><strong>☕︎ Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>☕︎ Markup and Style Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>☕︎ Operating System</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-000?style=flat-square&logo=windows&logoColor=2CA5E0" alt="Windows">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>☕︎ Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>☕︎ Currently Studying</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <h3 align="left">☕︎︎ Connect with me!</h3>
 
@@ -26,36 +79,11 @@ Currently studying Computer Science at the State University of Paraná (UNESPAR)
 [![Instagram](https://img.shields.io/badge/Instagram-4cbc9c?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mar.iacampana/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4cbc9c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rita-campana)
 
-## ☕︎︎ Tech Stack
-
-**☕︎︎ Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**☕︎︎ Markup and Style Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**☕︎︎ Operating System**
-
-![Windows](https://img.shields.io/badge/Windows-000?style=flat-square&logo=windows&logoColor=2CA5E0)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**☕︎︎ Tools**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**☕︎︎ Currently Studying**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br clear="right">
   
 #
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Yezidi&pause=1000&color=70ECD0&width=435&lines=%3C%E2%98%95%EF%B8%8E+GitHub+Stats!+%3E" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Yezidi&pause=1000&color=70ECD0&width=435&lines=%3C%E2%98%95%EF%B8%8E+GitHub+Stats!+%3E" alt="Typing SVG" />
 </a>
 
 <table>
